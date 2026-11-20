@@ -1,4 +1,5 @@
 ResearchVault --- Private Research Paper Q&A
+<img width="1920" height="826" alt="Screenshot (962)" src="https://github.com/user-attachments/assets/7c090565-86bf-42bc-9524-a86bc506ced6" />
 
 ResearchVault is a retrieval-augmented generation (RAG) chatbot designed
 to let users ask questions about a collection of research papers and
