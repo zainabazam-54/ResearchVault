@@ -8,6 +8,7 @@ receive context-grounded answers.
 This project demonstrates a dense retrieval workflow using Hugging Face
 sentence embeddings, FAISS vector search, LangChain, Google Gemini, and
 a Gradio chat interface.
+
 Privacy note: The research papers used during development were
 accessed privately through university resources. They are not included
 in this public repository. The vector database and extracted document
