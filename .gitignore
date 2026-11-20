@@ -3,10 +3,33 @@ venv/
 ragvenv/
 .env
 
-# Python cache
-__pycache__/
-*.pyc
-
 # OS files
 .DS_Store
 Thumbs.db
+
+
+# Private research data
+data/
+documents/
+papers/
+*.pdf
+
+# Vector databases
+vectorstore/
+faiss_index/
+*.faiss
+*.pkl
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
